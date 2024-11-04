@@ -1,5 +1,7 @@
 # GitHub Actions Fundamentals
 
+# amend to trigger CI
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
